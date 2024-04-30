@@ -22,4 +22,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+I think the entity extraction was alright, not the best. Since this story was about immigrants in different countries and doing the entity extraction pulled each mention of where a person was from as a place in this section, which does make a lot of sense. Each source who was mentioned in the story was there in the final output, as well as each organization. I really like that it added proposed to indicate which organizations did not exist yet, and I'm suprised that it actually managed to get more surrounding context that the two organizations were only proposed or potential strategies that might exist in the future recommended by the report. Something that could make entity extraction more useful could be to see the order in which places are mentioned just to see how high up they are in the story, which could indicate if they are more 'newsworthy' by being in the lede or nutgraf of the story.
